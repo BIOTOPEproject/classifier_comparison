@@ -1,0 +1,6 @@
+.DS_Store
+/src/.DS_Store
+/src/biotope1_processing.R
+/src/biotope2_processing.R
+/src/data_augmentation.R
+/src/__pycache__/*
